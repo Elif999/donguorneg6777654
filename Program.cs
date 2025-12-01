@@ -1,4 +1,4 @@
-namespace WinFormsApp34
+namespace WinFormsApp35
 {
     internal static class Program
     {
